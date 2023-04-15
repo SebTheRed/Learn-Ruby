@@ -2,7 +2,7 @@
 READ ME:
 
 These prompts are generated using Chat GPT.
-I then take one of these prompts, append it to the prefix "prompt:", and then feed it to Chat GPT 
+I then take one of these prompts, append it to the prefix "lesson:", and then feed it to Chat GPT 
 Chat GPT bot returns 2-3 paragraphs, one code example, and one coding challenge.
 Everything it returns is relevant to the supplied sentence prompt.
 
@@ -11,12 +11,12 @@ Step 1: Intoduce yourself to bot and tell it that its purpose is to teach you Ru
 Step 2: Tell it what programming knowledge you have, so it can assume your algo & abstraction knowledge.
   This is important to ensure the vocabulary the bot is using meets the understanding of the user.
 Step 2: Continue to feed it this prompt & prod it in the right direction, until it reiterates a tutorial-like response that you desire. Be kind to the bot.
-    When a string follows "prompt:" take that string and return 2-3 paragraphs of information on the Ruby concept.
+    When a string follows "lesson:" take that string and return 2-3 paragraphs of information on the Ruby concept.
     Also return 1 code example.
     Also return 1 challenge relevant to the prompt concept. Do you understand?
 Step 3: Copy and paste (life-hack: use ctrl + c then ctrl + v) one of these prompts.
-  Then append it to the string "prompt:" in the beginning of the prompt to the bot.
-  i.e. "prompt: Ruby is an object-oriented programming language."
+  Then append it to the string "lesson:" in the beginning of the prompt to the bot.
+  i.e. "lesson: Ruby is an object-oriented programming language."
   Lastly give it to the bot!
 Step 4: ??
 Step 5: Profit
@@ -48,9 +48,9 @@ Ruby's 'case' statement provides a way to perform multiple comparisons against a
 Ruby's 'unless' statement is used for conditional branching when the condition is false.
 What is a symbol in Ruby and how is it different from a string?
 What are the different ways to define a method in Ruby?
-
 How do you define a class in Ruby and what is an instance variable?
 What are blocks in Ruby and how are they used?
+
 What is the difference between a module and a class in Ruby?
 How do you iterate over a hash in Ruby?
 What is a lambda in Ruby and how is it different from a Proc?
