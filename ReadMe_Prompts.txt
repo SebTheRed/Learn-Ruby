@@ -21,10 +21,12 @@ Step 3: Copy and paste (life-hack: use ctrl + c then ctrl + v) one of these prom
 Step 4: ??
 Step 5: Profit
 
-NOTE: I have found that the more I groom and prompt the bot, the more correct, accurate, and uniform its reponses.
+NOTE: I have found that the more I train and prompt the bot, the more correct, accurate, and uniform its reponses.
   Be sure not to use this bot for any other purpose, it can throw off the training.
 NOTE: The bot made these prompts not me, so don't blame me if anything here is innacurate.
-#
+
+###############################################
+##### PROMPTS IN ORDER OF DIFFICULTY###########
 
 Ruby is an object-oriented programming language.
 The '#' character in Ruby is used for single-line comments.
@@ -50,11 +52,11 @@ What is a symbol in Ruby and how is it different from a string?
 What are the different ways to define a method in Ruby?
 How do you define a class in Ruby and what is an instance variable?
 What are blocks in Ruby and how are they used?
-
 What is the difference between a module and a class in Ruby?
 How do you iterate over a hash in Ruby?
 What is a lambda in Ruby and how is it different from a Proc?
 How do you handle exceptions in Ruby and what is a rescue clause?
+
 How do you use regular expressions in Ruby and what are some common regex patterns?
 What is a closure in Ruby and how is it used?
 What is the difference between a local variable and an instance variable in Ruby?
